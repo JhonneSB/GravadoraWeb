@@ -66,6 +66,3 @@ Aplicação web para gerenciamento de uma gravadora musical, com cadastro e cont
 
 Para dúvidas ou sugestões, envie um e-mail para:  
 ✉️ **carlosjhonne7@gmail.com**
-
----
-
