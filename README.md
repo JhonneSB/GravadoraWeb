@@ -1,38 +1,38 @@
+# 🎵 GravadoraWeb
 
-# GravadoraWeb
-
-Projeto desenvolvido durante o curso técnico em Desenvolvimento de Sistemas no Senai.  
-Aplicação web para gerenciamento de uma gravadora musical, com cadastro e controle de artistas, álbuns e gravadoras.
-
----
-
-## Tecnologias Utilizadas
-
-- Java 17
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- Thymeleaf
-- MySQL
-- Maven
+Projeto desenvolvido durante o curso técnico em **Desenvolvimento de Sistemas** no Senai.  
+Aplicação web para gerenciamento de uma gravadora musical, com cadastro e controle de **artistas**, **álbuns** e **gravadoras**.
 
 ---
 
-## Funcionalidades
+## 🚀 Tecnologias Utilizadas
 
-- Cadastro, edição e exclusão de Artistas
-- Cadastro, edição e exclusão de Álbuns
-- Cadastro, edição e exclusão de Gravadoras
-- Relacionamento entre Artistas, Álbuns e Gravadoras
-- Interface web simples e funcional utilizando Thymeleaf
+- ☕ Java 17  
+- 🌱 Spring Boot  
+- 🗃️ Spring Data JPA  
+- 🔄 Hibernate  
+- 🧩 Thymeleaf  
+- 🐬 MySQL  
+- 📦 Maven  
 
 ---
 
-## Como Executar o Projeto
+## ✨ Funcionalidades
+
+- ✅ Cadastro, edição e exclusão de **Artistas**  
+- ✅ Cadastro, edição e exclusão de **Álbuns**  
+- ✅ Cadastro, edição e exclusão de **Gravadoras**  
+- 🔗 Relacionamento entre artistas, álbuns e gravadoras  
+- 🖥️ Interface web simples e funcional utilizando **Thymeleaf**
+
+---
+
+## ⚙️ Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/JhonneSB/GravadoraWeb.git
+   
    ```
 
 2. Configure o banco de dados MySQL e ajuste as credenciais no arquivo `application.properties`:
