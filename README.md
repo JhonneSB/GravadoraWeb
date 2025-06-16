@@ -55,19 +55,21 @@ Aplicação web para gerenciamento de uma gravadora musical, com cadastro e cont
 
 ---
 
-## Autor
+## 👤 Autor
 
-Carlos Jhonne de Souza dos Santos  
-[GitHub](https://github.com/JhonneSB)  
-
----
-
-## Contato
-
-Para dúvidas ou sugestões, envie um e-mail para: carlosjhonne7@gmail.com
+**Carlos Jhonne de Souza dos Santos**  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/JhonneSB)
 
 ---
 
-## Licença
+## 📬 Contato
 
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Para dúvidas ou sugestões, envie um e-mail para:  
+✉️ **carlosjhonne7@gmail.com**
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**.  
+Consulte o arquivo `LICENSE` para mais detalhes.
